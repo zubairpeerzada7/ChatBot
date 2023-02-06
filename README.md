@@ -1,0 +1,2 @@
+# ChatBot
+This chatbot will start by greeting the user with "Hi, I'm a chatbot. How can I help you today?" and then prompt the user for input. If the user says "Goodbye" or "Bye", the chatbot will say "Goodbye! Have a great day." and end the program. If the user says anything else, the chatbot will use the googlesearch library to search the web for a relevant response and return the top result from Wikipedia.
